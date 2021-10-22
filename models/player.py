@@ -5,3 +5,4 @@ class Player():
         self.firstName = firstName
         self.lastName = lastName
         self.teamId = teamId
+        self.team = None
